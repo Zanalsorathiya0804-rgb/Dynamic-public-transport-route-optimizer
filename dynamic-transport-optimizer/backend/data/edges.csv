@@ -1,0 +1,4 @@
+from,to,mode,time
+1,2,bus,5
+2,3,walk,3
+1,3,walk,10
